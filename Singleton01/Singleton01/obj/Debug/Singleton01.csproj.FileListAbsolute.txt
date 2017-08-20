@@ -1,0 +1,6 @@
+D:\study_work\vs_prac\Patterns\Singleton01\Singleton01\bin\Debug\Singleton01.exe.config
+D:\study_work\vs_prac\Patterns\Singleton01\Singleton01\bin\Debug\Singleton01.exe
+D:\study_work\vs_prac\Patterns\Singleton01\Singleton01\bin\Debug\Singleton01.pdb
+D:\study_work\vs_prac\Patterns\Singleton01\Singleton01\obj\Debug\Singleton01.csprojResolveAssemblyReference.cache
+D:\study_work\vs_prac\Patterns\Singleton01\Singleton01\obj\Debug\Singleton01.exe
+D:\study_work\vs_prac\Patterns\Singleton01\Singleton01\obj\Debug\Singleton01.pdb
