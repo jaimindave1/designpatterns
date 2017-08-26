@@ -5,5 +5,5 @@ Design Principles :-
 3. Favor composition over inheritance
  
 Design Patterns:-
-0) Strategy Pattern  (Indexing starts with zer ;-))
+0) Strategy Pattern  (Indexing starts with zero ;-))
 	-The strategy pattern defines family of algorithms, encapsulate them and make them interchangable. Strategy let them vary independently from client that use it.
