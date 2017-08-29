@@ -1,9 +1,12 @@
 Design Principles :-
 
-1. Identify the aspects that vary and encapsulate them from what stays same.
-2. Program to interface, not to implementation
-3. Favor composition over inheritance
+0. Identify the aspects that vary and encapsulate them from what stays same.
+1. Program to interface, not to implementation
+2. Favor composition over inheritance
+3. Strive for loosely coupled desings between objects that intract.
  
 Design Patterns:-
 0) Strategy Pattern  (Indexing starts with zer ;-))
 	-The strategy pattern defines family of algorithms, encapsulate them and make them interchangable. Strategy let them vary independently from client that use it.
+1) Observer Pattern
+	-Observer pattern defines one to many dependency between objects, so that when one object changes state,other dependent objects gets notified and updated automatically.
