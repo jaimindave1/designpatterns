@@ -4,6 +4,7 @@ Design Principles :-
 2. Program to interface, not to implementation
 3. Favor composition over inheritance
 4. Strive for loosely coupled desings between objects that intract.
+5. Class is open for extension but closed for modification.
  
 Design Patterns:-
 
@@ -12,3 +13,7 @@ Design Patterns:-
 	
 2) Observer Pattern
 	-Observer pattern defines one to many dependency between objects, so that when one object changes state,other dependent objects gets notified and updated automatically.
+
+3) Decorator Pattern
+	-Decorator Pattern attaches additional responsibility to an objects dynamically. Decorators provides best alternative to superclassing for extending functionality.
+
